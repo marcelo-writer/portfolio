@@ -616,24 +616,24 @@ font-size: 7vh;
     background-color: var(--mainColor);
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 10% 30% 1fr 1fr ;
+    grid-template-rows: 30% 1fr 1fr ;
     background-image: url(img/mobile2-p3.svg);
     background-size: contain;
     background-repeat: no-repeat;
 }
 
 .mobile__page3__h2{
-    grid-row: 2/3;
+    grid-row: 1/2;
      color:var(--secondColor);
 font-size: 7vh;
 
   font-family: "Poppins", sans-serif;
-  padding: 3vh 5vh 0 5vh;
+  padding: 5vh;
   
 }
 
 .mobile__page3__p{
-  grid-row: 3/4;
+  grid-row: 2/3;
     font-size: 4vh;
   padding-top: 4vh;
   font-weight: 500;
@@ -642,7 +642,7 @@ font-size: 7vh;
 }
 
 .mobile__page3__button{
-  grid-row: 4/5;
+  grid-row: 3/4;
   text-decoration: none;
   display: grid;
   align-items: center;
