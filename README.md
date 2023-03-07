@@ -2,4 +2,4 @@
 
 ## you can call me Marcelove
 
-## And this is the url: https://marcelo-writer.github.io/public-page/
+## And this is the url: https://marcelo-writer.github.io/portfolio
