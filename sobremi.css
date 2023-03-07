@@ -628,14 +628,15 @@ font-size: 7vh;
 font-size: 7vh;
 
   font-family: "Poppins", sans-serif;
-  padding: 5vh;
+  padding-top: 5vh;
   
 }
 
 .mobile__page3__p{
   grid-row: 2/3;
     font-size: 4vh;
-  padding-top: 4vh;
+  
+  padding-bottom: 5vh;
   font-weight: 500;
   color: var(--secondColor);
   padding: 0 5vh 0 5vh;
