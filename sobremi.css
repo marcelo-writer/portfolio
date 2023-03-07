@@ -495,7 +495,7 @@ color:var(--mainColor);
   display: grid;
 }
   .mobile__page1{
-    height: 100vh;
+    height: 90vh;
     background-color: var(--mainColor);
     display: grid;
   grid-template-rows: 15%  1fr 1fr 1fr ;
